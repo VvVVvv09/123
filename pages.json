@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/home",
+      "name": "home",
+      "style": {}
+    },
+    {
+      "path": "pages/data/data",
+      "name": "data",
+      "style": {}
+    },
+    {
+      "path": "pages/alarm/alarm",
+      "name": "alarm",
+      "style": {}
+    },
+    {
+      "path": "pages/user/user",
+      "name": "user",
+      "style": {}
+    }
+  ],
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#007aff",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "主页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home_selected.png"
+      },
+      {
+        "pagePath": "pages/data/data",
+        "text": "数据",
+        "iconPath": "static/tabbar/data.png",
+        "selectedIconPath": "static/tabbar/data_selected.png"
+      },
+      {
+        "pagePath": "pages/alarm/alarm",
+        "text": "报警",
+        "iconPath": "static/tabbar/alarm.png",
+        "selectedIconPath": "static/tabbar/alarm_selected.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户",
+        "iconPath": "static/tabbar/user.png",
+        "selectedIconPath": "static/tabbar/user_selected.png"
+      }
+    ]
+  }
+}

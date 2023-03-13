@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.4.26",
+    "uni-ui": "^1.0.0",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.14"
+  }
+}
